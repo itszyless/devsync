@@ -13,7 +13,7 @@ DevSync collects the following data during normal usage:
 
 - **Discord User IDs**
 - **Discord Server IDs**
-- **Timestamps** of certain actions (e.g. command usage)
+- **Timestamps** of certain actions (e.g. command cooldown)
 
 This data is used strictly to enable the bot’s functionality related to hiring and offering services within Discord servers.
 
